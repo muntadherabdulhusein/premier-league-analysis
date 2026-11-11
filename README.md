@@ -2,6 +2,8 @@
 
 An exploratory analysis of every player in the 2020/21 English Premier League season with Python: goals, assists, penalties, ages, nationalities and discipline.
 
+This was a practice project. I built it while following a YouTube tutorial, to get comfortable with pandas and plotting.
+
 ## Questions I looked at
 
 - How many goals were scored, and how many came from penalties?
